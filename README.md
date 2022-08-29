@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Xrls9
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning NodeJS
 - 💞️ I’m looking to collaborate on any kind of project 
 - 📫 How to reach me:
   LinkedIn: https://www.linkedin.com/in/carzapdev/
